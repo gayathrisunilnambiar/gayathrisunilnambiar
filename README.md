@@ -1,7 +1,7 @@
 <p align="center">
-  <strong>Hi there 👋, I'm Gayathri!</strong><br>
-  Junior @ RV College of Engineering<br>
-  Crafting meaningful and delightful tech 💡
+  <strong><span style="font-size:28px">Hi, I'm Gayathri!</span></strong><br><br>
+  <strong>🎓 Junior @ RV College of Engineering</strong><br>
+  <strong>🛠️ Always excited to build meaningful and delightful tech!</strong>
 </p>
 
 ---
