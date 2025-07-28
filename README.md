@@ -4,7 +4,7 @@
 <h3 align="center">🛠️ Always excited to build meaningful and delightful tech!</h3>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=435&lines=Passionate+about+Machine+Learning%2C+Product+Design+%26+Social+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=650&lines=Currently+exploring:+Generative+AI,+UI/UX,+and+AI+for+Social+Good" alt="Typing SVG" />
 </a>
 
 ---
