@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Gayathri!
+# Hi, I'm Gayathri!
 
-🎓 Sophomore @ RV College of Engineering  
-💡 Passionate about **Machine Learning** & **Product Design**  
-🌱 Currently exploring: Generative AI, UI/UX, and AI for Social Good  
+🎓 Junior @ RV College of Engineering  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+about+Machine+Learning+%26+Product+Design+;Currently+exploring%3A+Generative+AI%2C+UI%2FUX%2C+and+AI+for+Social+Good)](https://git.io/typing-svg)
 🛠️ Always excited to build meaningful and delightful tech!
 
 ---
