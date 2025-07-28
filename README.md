@@ -5,14 +5,11 @@
   <h2>🎓 Junior @ RV College of Engineering</h2>
   <h3>🛠️ Always excited to build meaningful and delightful tech!</h3>
 
-  <br>
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Passionate+about+Machine+Learning+%26+Product+Design" alt="Typing SVG" />
   </a>
 
 </div>
-
 
 ## 💻 Tech Stack
 
