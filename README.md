@@ -1,7 +1,9 @@
+<h1 align="center">Hi there, I'm Gayathri Nambiar!</h1>
+<h3 align="center">🎓 Junior @ RV College of Engineering</h3>
+<h4 align="center">🛠️ Always excited to build meaningful and delightful tech!</h4>
+
 <p align="center">
-  <strong><span style="font-size:36px">Hi, I'm Gayathri!</span></strong><br><br>
-  <strong>🎓 Junior @ RV College of Engineering</strong><br>
-  <strong>🛠️ Always excited to build meaningful and delightful tech!</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Passionate+about+AI+ethics+%28and+cat+puns%29" />
 </p>
 
 ---
