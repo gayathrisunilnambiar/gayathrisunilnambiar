@@ -1,7 +1,6 @@
 <div align="center">
 
   <h1>Hi there, I'm Gayathri Nambiar!</h1>
-
   <h2>🎓 Junior @ RV College of Engineering</h2>
   <h3>🛠️ Always excited to build meaningful and delightful tech!</h3>
 
