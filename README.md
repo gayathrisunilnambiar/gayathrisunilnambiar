@@ -1,5 +1,5 @@
 <p align="center">
-  Hi there 👋, I'm Gayathri!<br>
+  <strong>Hi there 👋, I'm Gayathri!</strong><br>
   Junior @ RV College of Engineering<br>
   Crafting meaningful and delightful tech 💡
 </p>
