@@ -7,7 +7,7 @@
   </a>
   <br>
   🛠️ Always excited to build meaningful and delightful tech!  
-  🌱 Currently exploring: Generative AI, UI/UX, and AI for Social Good
+  🌱 Currently exploring Generative AI, UI/UX, and AI for Social Good
 
 </div>
 
