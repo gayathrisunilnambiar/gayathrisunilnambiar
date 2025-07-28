@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h3>Hi there, I'm Gayathri Nambiar!</h3>
+  <h1>Hi there, I'm Gayathri Nambiar!</h1>
   <h3>🎓 Junior @ RV College of Engineering</h3>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Passionate+about+Machine+Learning+%26+Product+Design" alt="Typing SVG" />
