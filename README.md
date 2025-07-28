@@ -65,14 +65,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=gayathrisunilnambiar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=gayathrisunilnambiar&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gayathrisunilnambiar&theme=dark&hide_border=false&layout=compact)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=gayathrisunilnambiar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Designed with care and crafted for impact -->
