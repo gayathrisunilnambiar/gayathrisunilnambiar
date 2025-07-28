@@ -1,15 +1,16 @@
+<h1 align="center">Hi there, I'm Gayathri Nambiar!</h1>
+<h3 align="center">🎓 Junior @ RV College of Engineering</h3>
+<h3 align="center">🛠️ Always excited to build meaningful and delightful tech!</h3>
+
 <div align="center">
-
-  <h1>Hi there, I'm Gayathri Nambiar!</h1>
-  <h3>🎓 Junior @ RV College of Engineering</h3>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Passionate+about+Machine+Learning+%26+Product+Design" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&center=true&vCenter=true&pause=1000&width=800&lines=Passionate+about+Machine+Learning+%26+Product+Design" alt="Typing SVG" />
   </a>
-  <br>
-  🛠️ Always excited to build meaningful and delightful tech!  
-  🌱 Currently exploring Generative AI, UI/UX, and AI for Social Good
-
 </div>
+
+<h4 align="center">🛠️ Always excited to build meaningful and delightful tech! 🌱 Currently exploring: Generative AI, UI/UX, and AI for Social Good</h4>
+
+<hr style="height:4px; background-color:#ccc; border:none; margin: 30px 0;" />
 
 ## 💻 Tech Stack
 
