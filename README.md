@@ -3,7 +3,7 @@
 <h4 align="center">🛠️ Always excited to build meaningful and delightful tech!</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Passionate+about+AI+ethics+%28and+cat+puns%29" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=435&lines=Passionate+about+ML+%26+Product+Design+;Currently+exploring%3A+Generative+AI%2C+UI%2FUX%2C+and+AI+for+Social+Good)](https://git.io/typing-svg)/>
 </p>
 
 ---
