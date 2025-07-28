@@ -1,7 +1,8 @@
-# Hi, I'm Gayathri!
-
-🎓 Junior @ RV College of Engineering  
-🛠️ Always excited to build meaningful and delightful tech!
+<p align="center">
+  Hi there 👋, I'm Gayathri!<br>
+  Junior @ RV College of Engineering<br>
+  Crafting meaningful and delightful tech 💡
+</p>
 
 ---
 
